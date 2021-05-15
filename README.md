@@ -1,11 +1,11 @@
 # homebrew formulas
 
-On this repos I'm adding custom homebrew formulas for mac.
-## How do I install these formulae?
+On this repos I'm adding custom homebrew formulas for building Fastcoin or Dogecoin QT wallet on Mac.
+## How to install?
 
-`brew install esantonja/formulas/<formula>`
+`brew install esantonja/formulas/berkeley-db@5`
 
-Or `brew tap esantonja/formulas` and then `brew install <formula>`.
+Or `brew tap esantonja/formulas` and then `brew install berkeley-db@5`.
 
 ## Documentation
 
